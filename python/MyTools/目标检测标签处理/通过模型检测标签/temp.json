@@ -1,0 +1,74 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "G",
+            "points": [
+                [
+                    972.5865600000001,
+                    435.90743999999995
+                ],
+                [
+                    982.2383999999998,
+                    457.52904
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "R",
+            "points": [
+                [
+                    922.77984,
+                    433.2042
+                ],
+                [
+                    932.43168,
+                    456.37019999999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pass",
+            "points": [
+                [
+                    1082.2396800000001,
+                    484.55604000000005
+                ],
+                [
+                    1094.59488,
+                    500.00004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Gpedestrian",
+            "points": [
+                [
+                    1081.8528000000001,
+                    482.23943999999995
+                ],
+                [
+                    1096.1376,
+                    499.22784
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "2022830_21-30-15_0_114_6.jpg",
+    "imageData": null,
+    "imageHeight": 1080,
+    "imageWidth": 1920
+}

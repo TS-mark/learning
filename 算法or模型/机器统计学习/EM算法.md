@@ -1,0 +1,1 @@
+[EM算法详解](https://zhuanlan.zhihu.com/p/367714302)
